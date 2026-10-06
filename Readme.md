@@ -78,10 +78,6 @@ The application will open in your browser at:
 http://localhost:8501
 ```
 
-## 🌐 Live Demo
-
-👉 **[Open the Deployed Application](YOUR_STREAMLIT_APP_URL)**
-
 ## 📸 Screenshots
 
 ### Application Interface
@@ -94,9 +90,7 @@ http://localhost:8501
 
 ## 🎥 Demo
 
-![Swiggy Delivery Time Prediction Demo](assets/demo.gif)
-
-[▶️ Watch the Full Demo Video](YOUR_GITHUB_ISSUE_VIDEO_URL)
+[▶️ Watch the Full Demo Video](https://github.com/user-attachments/assets/5f920e7a-9bf0-4620-bda5-b07f296fe2fa)
 
 ## 📌 Project Highlights
 
