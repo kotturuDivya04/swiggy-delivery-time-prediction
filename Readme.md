@@ -1,16 +1,15 @@
-
-````markdown
 # 🍔 Swiggy Delivery Time Prediction
 
 A Machine Learning web application that predicts **food delivery time** based on order and delivery-related information.
 
 ## 🚀 Features
 
-- Predicts estimated food delivery time
-- Machine Learning-based prediction
-- Interactive Streamlit interface
-- Simple and user-friendly design
-- Easy to run and deploy
+- 📊 Machine Learning-based delivery time prediction
+- 🍔 Predicts estimated food delivery time
+- 🖥️ Interactive Streamlit web interface
+- ⚡ Fast and simple predictions
+- 📱 User-friendly interface
+- ☁️ Ready for deployment
 
 ## 🛠️ Tech Stack
 
@@ -36,15 +35,15 @@ Swiggy/
 │   └── demo.gif
 │
 └── [dataset / other files]
-````
+```
 
 ## ⚙️ Run Locally
 
 ### 1. Clone the Repository
 
 ```bash
-git clone [YOUR_REPOSITORY_URL]
-cd Swiggy
+git clone https://github.com/kotturuDivya04/swiggy-delivery-time-prediction.git
+cd swiggy-delivery-time-prediction
 ```
 
 ### 2. Create a Virtual Environment
@@ -79,23 +78,36 @@ The application will open in your browser at:
 http://localhost:8501
 ```
 
+## 🌐 Live Demo
+
+👉 **[Open the Deployed Application](YOUR_STREAMLIT_APP_URL)**
+
 ## 📸 Screenshots
 
-### Application
+### Application Interface
 
-![Application Screenshot](assets/screenshot.png)
+![Swiggy Application](assets/screenshot.png)
 
-### Prediction
+### Prediction Result
 
-![Prediction Screenshot](assets/prediction.png)
+![Prediction Result](assets/prediction.png)
 
 ## 🎥 Demo
 
 ![Swiggy Delivery Time Prediction Demo](assets/demo.gif)
 
+[▶️ Watch the Full Demo Video](YOUR_GITHUB_ISSUE_VIDEO_URL)
+
+## 📌 Project Highlights
+
+This project demonstrates the complete workflow of a Machine Learning application:
+
+**Data → Preprocessing → Model → Prediction → Streamlit Web Application**
+
 ## 👩‍💻 Author
 
-**Divya Kotturu**
+### Divya Kotturu
 
-````
+B.Tech Computer Science (Data Science)
 
+Built with **Python, Machine Learning & Streamlit**.
